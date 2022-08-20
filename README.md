@@ -9,3 +9,8 @@ Grupo: 39- 40
 Integrante 2: David Andres Osorio Carmona \
 Rol: Developer \
 Grupo: 39- 40
+
+\
+Integrante 3: Magnolia Rocio Montaño Velosa \
+Rol: Developer \
+Grupo: 39- 40
