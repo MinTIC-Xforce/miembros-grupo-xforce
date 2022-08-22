@@ -14,3 +14,8 @@ Grupo: 39- 40
 Integrante 3: Magnolia Rocio Montaño Velosa \
 Rol: Developer \
 Grupo: 39- 40
+
+\
+Integrante 4: Edinson Alexander Solano \
+Rol: Developer \
+Grupo: 39- 40
