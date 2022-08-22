@@ -19,6 +19,7 @@ Grupo: 39- 40
 Integrante 4: Edinson Alexander Solano \
 Rol: Developer \
 Grupo: 39- 40
+
 \
 Integrante 5: Andres Camilo Perez Bejarano \
 Rol: Developer \
