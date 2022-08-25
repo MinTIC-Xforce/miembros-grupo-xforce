@@ -1,7 +1,3 @@
-
-package com.mycompany.ejemplo.mavenproject1;
-
-
 public class MovimientoDinero {
     
     //Atributos
