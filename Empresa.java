@@ -1,11 +1,11 @@
 public class Empresa {
     //Atributos
-      private int nitEmpresa;
+      private long nitEmpresa;
       private String nombreEmpresa;
       private String direccionEmpresa;
       private String telefonoEmpresa;
       //Constructor
-      public Empresa(String nombreEmpresa, String direccionEmpresa, String telefonoEmpresa, int nitEmpresa) {
+      public Empresa(String nombreEmpresa, String direccionEmpresa, String telefonoEmpresa, long nitEmpresa) {
          this.nitEmpresa = nitEmpresa;
          this.nombreEmpresa = nombreEmpresa;
          this.direccionEmpresa = direccionEmpresa;
@@ -16,11 +16,11 @@ public class Empresa {
 
   
       //Getters y Setters
-      public int getNitEmpresa() {
+      public long getNitEmpresa() {
           return nitEmpresa;
       }
   
-      public void setNitEmpresa(int nitEmpresa) {
+      public void setNitEmpresa(long nitEmpresa) {
           this.nitEmpresa = nitEmpresa;
       }
   
