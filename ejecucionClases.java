@@ -21,6 +21,6 @@ public class ejecucionClases {
 
         MovimientoDinero movDinero1 = new MovimientoDinero(2000000, "compra de insumos empresa 1");
         System.out.println("El monto del movimiento es : $" + movDinero1.getMontoMovimiento() + "\n" +
-                "El concepto del monto es: " + empresa1.getDireccionEmpresa());
+                "El concepto del monto es: " + movDinero1.getConceptoMovimiento());
     }
 }
